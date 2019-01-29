@@ -1,2 +1,2 @@
 # szullc.github.io
-This is an home page for szullc.
+This is a home page for szullc.
